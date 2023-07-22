@@ -1,16 +1,8 @@
-# i_am_poor
+# I Am Poor
 
-A new Flutter project.
+A simple app that just displays an image to show that you are poor.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/kichuman28/I-Am-Poor/assets/97717315/6b5c82d7-6de2-40e5-a9b0-c1e1406cbe94
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
